@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Rina Wulandari",
+    "rating": 5,
+    "text": "Suasananya adem banget! Cocok buat dinner romantis atau acara keluarga. Nasi goreng kampungnya juara, bumbunya berasa banget. Pasti balik lagi!",
+    "date": "15 Mei 2026"
+  },
+  {
+    "id": 2,
+    "name": "Budi Santoso",
+    "rating": 5,
+    "text": "Tempatnya nyaman, parkiran luas, pelayanan ramah. Sate ayam Maduranya enak banget, bumbu kacangnya khas. Harga terjangkau untuk kualitas sebagus ini.",
+    "date": "3 Juni 2026"
+  },
+  {
+    "id": 3,
+    "name": "Dewi Anggraini",
+    "rating": 4,
+    "text": "Pertama kali ke sini karena rekomendasi teman. Ayam bakar taliwangnya pedasnya pas, plecing kangkungnya seger. Minus satu karena live musicnya agak keras.",
+    "date": "28 Mei 2026"
+  },
+  {
+    "id": 4,
+    "name": "Andi Prasetyo",
+    "rating": 5,
+    "text": "Favorit keluarga nih! Anak-anak suka pisang goreng crispy, saya sama istri suka nasi gorengnya. Taman belakangnya instagramable banget. Recommended!",
+    "date": "8 Juni 2026"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Nasi Goreng Kampung",
+    "category": "Makanan",
+    "description": "Nasi goreng khas kampung dengan bumbu rempah pilihan, disajikan dengan telur mata sapi, ayam suwir, dan kerupuk udang.",
+    "price": 35000,
+    "imageUrl": "https://placehold.co/600x400/f59e0b/ffffff?text=Nasi+Goreng+Kampung",
+    "isAvailable": true
+  },
+  {
+    "id": 2,
+    "name": "Sate Ayam Madura",
+    "category": "Makanan",
+    "description": "10 tusuk sate ayam pilihan dengan bumbu kacang khas Madura, lontong, dan sambal kecap.",
+    "price": 40000,
+    "imageUrl": "https://placehold.co/600x400/d97706/ffffff?text=Sate+Ayam+Madura",
+    "isAvailable": true
+  },
+  {
+    "id": 3,
+    "name": "Ayam Bakar Taliwang",
+    "category": "Makanan",
+    "description": "Ayam kampung bakar dengan bumbu taliwang khas Lombok, pedas gurih disajikan dengan plecing kangkung.",
+    "price": 45000,
+    "imageUrl": "https://placehold.co/600x400/b45309/ffffff?text=Ayam+Bakar+Taliwang",
+    "isAvailable": true
+  },
+  {
+    "id": 4,
+    "name": "Es Teh Tarik Spesial",
+    "category": "Minuman",
+    "description": "Teh tarik khas Melayu dengan campuran susu kental manis, disajikan dingin dengan es batu.",
+    "price": 15000,
+    "imageUrl": "https://placehold.co/600x400/14b8a6/ffffff?text=Es+Teh+Tarik",
+    "isAvailable": true
+  },
+  {
+    "id": 5,
+    "name": "Jus Alpukat Coklat",
+    "category": "Minuman",
+    "description": "Alpukat segar diblend dengan susu coklat dan gula aren, topping coklat serut.",
+    "price": 20000,
+    "imageUrl": "https://placehold.co/600x400/0d9488/ffffff?text=Jus+Alpukat+Coklat",
+    "isAvailable": true
+  },
+  {
+    "id": 6,
+    "name": "Wedang Uwuh Tradisional",
+    "category": "Minuman",
+    "description": "Minuman tradisional Yogyakarta dengan campuran jahe, kayu manis, cengkeh, dan gula batu. Disajikan hangat.",
+    "price": 12000,
+    "imageUrl": "https://placehold.co/600x400/0f766e/ffffff?text=Wedang+Uwuh",
+    "isAvailable": true
+  },
+  {
+    "id": 7,
+    "name": "Pisang Goreng Crispy",
+    "category": "Dessert",
+    "description": "Pisang raja dibalut tepung crispy, disajikan dengan topping keju, meses, dan susu kental manis.",
+    "price": 18000,
+    "imageUrl": "https://placehold.co/600x400/fbbf24/ffffff?text=Pisang+Goreng+Crispy",
+    "isAvailable": true
+  },
+  {
+    "id": 8,
+    "name": "Es Campur Legenda",
+    "category": "Dessert",
+    "description": "Campuran cendol, tape ketan, alpukat, nangka, dan kolang-kaling dengan santan dan sirup gula aren.",
+    "price": 22000,
+    "imageUrl": "https://placehold.co/600x400/fcd34d/ffffff?text=Es+Campur+Legenda",
+    "isAvailable": true
+  },
+  {
+    "id": 9,
+    "name": "Klepon Gula Jawa",
+    "category": "Dessert",
+    "description": "Kue tradisional klepon isi gula jawa cair, taburan kelapa parut. Satu porsi isi 8 buah.",
+    "price": 15000,
+    "imageUrl": "https://placehold.co/600x400/fde68a/ffffff?text=Klepon+Gula+Jawa",
+    "isAvailable": false
+  }
+]

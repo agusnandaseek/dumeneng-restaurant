@@ -1,0 +1,7 @@
+'use client';
+
+import ReviewsManager from '@/components/admin/ReviewsManager';
+
+export default function AdminReviewsPage() {
+  return <ReviewsManager />;
+}

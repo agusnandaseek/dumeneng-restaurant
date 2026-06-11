@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://placehold.co/800x600/1a1a2e/ffffff?text=Suasana+Indoor",
+    "caption": "Suasana Indoor — Ruang ber-AC dengan dekorasi kayu jati yang hangat"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://placehold.co/800x600/16213e/ffffff?text=Taman+Belakang",
+    "caption": "Taman Belakang — Area lesehan dengan kolam ikan dan pepohonan rindang"
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://placehold.co/800x600/0f3460/ffffff?text=Area+Outdoor",
+    "caption": "Area Outdoor — Tempat duduk terbuka cocok untuk acara keluarga"
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://placehold.co/800x600/533483/ffffff?text=Live+Music+Corner",
+    "caption": "Live Music Corner — Panggung mini untuk live music akustik setiap Jumat malam"
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://placehold.co/800x600/e94560/ffffff?text=Private+Dining",
+    "caption": "Private Dining Room — Ruangan privat untuk 15 orang, cocok untuk rapat dan arisan"
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://placehold.co/800x600/0a1931/ffffff?text=Dapur+Terbuka",
+    "caption": "Dapur Terbuka — Saksikan langsung chef kami menyiapkan hidangan Anda"
+  }
+]
